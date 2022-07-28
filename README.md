@@ -14,8 +14,6 @@
 目前使用 ```EasyOCR``` 模块进行验证码识别，准确率目前可达99.9%，日后可替换为自己训练的识别模型。  
 欢迎大家star我的开源库 [pyCAPTCHA](https://github.com/ZiYang-xie/PyCAPTCHA)
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gvtyc9lzodj30oy0l4tb5.jpg)
-
 20220627
 
 
